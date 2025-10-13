@@ -1,31 +1,77 @@
-# Hi — I’m Wira 👋
+<div align="center">
 
-Student at Telkom University
+# Hi, I'm Wira 👋
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azdetic&show_icons=true&locale=en" alt="azdetic" /></p>
+**Student at Telkom University**
 
-## What I speak
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rawii1_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/agungwira)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:agungindramawan@outlook.com)
 
-<p align="left">
-  <a href="#" title="JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" alt="javascript" /></a>
-  <img width="18" />
-  <a href="#" title="TypeScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="36" alt="typescript" /></a>
-  <img width="18" />
-  <a href="#" title="React"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36" alt="react" /></a>
-  <img width="18" />
-  <a href="#" title="HTML5"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36" alt="html5" /></a>
-  <img width="18" />
-  <a href="#" title="CSS3"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="36" alt="css3" /></a>
-  <img width="18" />
-    <a href="#" title="Python"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" alt="python" /></a>
-</p>
+</div>
 
 ---
 
-## Contributions
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> Tech Stack
 
+**Languages**  
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+
+**Frameworks & Libraries**  
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white)
+
+**Data Science**  
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=white)
+
+**Tools & Platforms**  
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=azdetic&theme=one_dark_pro&hide_border=true&include_all_commits=false&count_private=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azdetic&theme=one_dark_pro&hide_border=true&layout=compact"/>
+</div>
+
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3E2aGU0dXI0NTJmZjhmdTNzYnR0b2N0NGViM3kwYndhcGxiNmR5byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iIGT8Y1yOMultWedziD/giphy.gif" width="28"> Recently Played on Spotify
+
+<div align="center">
+  <a href="https://open.spotify.com/user/c9f0dqmj29gofdem0ta0ur5gh">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=c9f0dqmj29gofdem0ta0ur5gh&count=5&unique=false" alt="Spotify recently played" />
+  </a>
+</div>
+
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="32"> Contribution Graph
+
+<div align="center">
+  
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/azdetic/azdetic/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/azdetic/azdetic/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/azdetic/azdetic/output/pacman-contribution-graph.svg">
+  <img alt="Contribution Graph" src="https://raw.githubusercontent.com/azdetic/azdetic/output/pacman-contribution-graph.svg">
 </picture>
+
+</div>
+
+<div align="center">
+
+✨ **Thanks for visiting!** ✨
+
+![Profile Views](https://visitcount.itsvg.in/api?id=azdetic&icon=2&color=0)
+
+</div>
