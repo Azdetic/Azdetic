@@ -48,9 +48,9 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHR5aDViYnJpcnhnejY4czZwbWt2bXk2eHJ3Zm1wdWptMWN4ZzI3bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lTLV2erK8vf1MIz4Rk/giphy.gif" width="200"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=azdetic&theme=one_dark_pro&hide_border=true&include_all_commits=false&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azdetic&theme=one_dark_pro&hide_border=true&layout=compact"/>
+<img height="150em" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHR5aDViYnJpcnhnejY4czZwbWt2bXk2eHJ3Zm1wdWptMWN4ZzI3bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lTLV2erK8vf1MIz4Rk/giphy.gif" width="170"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=azdetic&theme=one_dark_pro&hide_border=true&include_all_commits=false&count_private=false"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azdetic&theme=one_dark_pro&hide_border=true&layout=compact"/>
 </div>
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3E2aGU0dXI0NTJmZjhmdTNzYnR0b2N0NGViM3kwYndhcGxiNmR5byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iIGT8Y1yOMultWedziD/giphy.gif" width="28"> Recently Played on Spotify
