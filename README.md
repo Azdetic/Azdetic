@@ -31,6 +31,12 @@
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white)
 
+**DevOps & Infrastructure**  
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=Prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=flat&logo=grafana&logoColor=white)
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white)
+
 **Data Science**  
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
@@ -52,8 +58,8 @@
 
 <div align="center">
 <img height="150em" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHR5aDViYnJpcnhnejY4czZwbWt2bXk2eHJ3Zm1wdWptMWN4ZzI3bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lTLV2erK8vf1MIz4Rk/giphy.gif" width="170"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=azdetic&theme=one_dark_pro&hide_border=true&include_all_commits=false&count_private=false"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azdetic&theme=one_dark_pro&hide_border=true&layout=compact"/>
+    <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=azdetic&theme=one_dark_pro&hide_border=true"/>
+    <img height="150em" src="https://metrics.lecoq.io/azdetic?template=classic&base=false&plugin_languages=yes&plugin_languages_limit=6&config_timezone=Asia%2FJakarta"/>
 </div>
 
 ## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGFrZGcydTlyeXV6aWlrbmw1cnQ3Y2o2dnVqanFyM3V0eHR5Znh0biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EFGXDUBXcUd131C0CR/giphy.gif" width="20"> Recently Played on Spotify
