@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=60&pause=1000&color=F1C40F&background=000000&center=true&vCenter=true&width=800&height=100&lines=Agung+Wira;The+Dark+Knight+of+Code" alt="Header" style="width:875%; border-radius: 12px;" />
-
 # Hi there, I'm Agung Wira! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
 ### Student at Telkom University
